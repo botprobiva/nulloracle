@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://probivbot.net/sitemap.xml
+Sitemap: https://probivbot.pro/sitemap.xml
